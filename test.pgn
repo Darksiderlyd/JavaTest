@@ -1,0 +1,22 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-C4J3A5S"]
+[Date "2018.09.12"]
+[Round "?"]
+[White "DELL"]
+[Black "DELL"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "B98"]
+[Opening "Sicilian"]
+[Time "21:00:43"]
+[Variation "Najdorf, Browne, 10.O-O-O Nbd7 11.Be2"]
+[WhiteElo "2400"]
+[TimeControl "300"]
+[Termination "unterminated"]
+[PlyCount "37"]
+[WhiteType "program"]
+[BlackType "program"]
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Be2 Rb8 12. Qg3 b5 13. e5 dxe5 14. Nxe6 fxe6
+15. Qxg7 Rg8 16. Bh5 Kd8 17. Qxf6 Qc5 18. Qxe6 Bxh4 19. Qxg8 *
+
